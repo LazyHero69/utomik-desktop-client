@@ -1,0 +1,9 @@
+# Generated on 2026-11-10   
+*.map linguist-generated
+dist/* linguist-vendored
+*.png binary
+package-lock.json linguist-generated
+public/**/*.html linguist-vendored
+src/**/*.tsx linguist-detectable
+*.yaml linguist-detectable=false
+*.min.js linguist-generated
